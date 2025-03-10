@@ -24,3 +24,8 @@ File Writing: Writing data to files is equally important. Utilities allow users 
 
 File Deletion: The ability to delete files is essential for maintaining a clean and organized file system. File handling utilities provide straightforward methods to remove files that are no longer needed.
 
+*OUTPUT
+![Image](https://github.com/user-attachments/assets/9f18d4a1-9c41-4d8d-aa40-cfbb1cf35a4b)
+![Image](https://github.com/user-attachments/assets/a403cf38-fadd-4cfd-b63a-b75f65fe863c)
+![Image](https://github.com/user-attachments/assets/de2db3e2-426a-46e4-9b8a-6f4cb034f337)
+![Image](https://github.com/user-attachments/assets/06bb9f96-c643-4965-a67d-c135d686c6f9)
